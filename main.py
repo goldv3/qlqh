@@ -1,6 +1,8 @@
 import requests,colorama,os,time
 
 from colorama import Fore,init
+import sys
+sys.stdout.write("\x1b]2;qlqh By Gold.#8016\x07")
 banner = f"""
 {Fore.CYAN}
  ██████╗ ██╗     ██╗      ██████╗ ██╗  ██╗
